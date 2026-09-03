@@ -3,4 +3,36 @@
     padding: 0;
     box-sizing: border-box;
 }
-background-color
+body {
+    background-color: #f4f1e4;
+    h1 {
+        text-align: left;
+        font-family: 'Helvetica Neue', Courier, sans-serif;
+        font-size: 3rem;
+        color: rgb(0, 0, 0);
+    }
+    h3 {
+        text-align: center;
+        font-family: 'Helvetica Neue', Courier, sans-serif;
+        font-size: 0.5rem;
+        color: rgb(0, 0, 0);
+    }
+    h5 {
+        text-align: right;
+        font-family: 'Helvetica Neue', Courier, sans-serif;
+        font-size: 0.5rem;
+        color: rgb(0, 0, 0);
+    }
+    h4 {
+        text-align: left;
+        font-family: 'Helvetica Neue', Courier, sans-serif;
+        font-size: 0.5rem;
+        color: rgb(0, 0, 0);
+    }
+    h2 {
+        text-align: left;
+        font-family: 'Helvetica Neue', Courier, sans-serif;
+        font-size: 3rem;
+        color: rgb(0, 0, 0);
+    }
+}
